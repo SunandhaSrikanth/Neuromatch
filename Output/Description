@@ -1,0 +1,1 @@
+This has the HMMs of all sessions (0 to 38) in pickle files. Each file has a matrix of dimensions #Trials x #Time Bins
